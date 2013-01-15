@@ -10,7 +10,7 @@ Jcs3 is a gem I created to support the process of deploying my Jekyll based stat
 1. Clone this repository: git clone https://github.com/brcosm/jcs3.git
 2. Build the gem: cd jcs3; gem build jcs3.gemspec
 3. Install the gem: gem install jcs3
-4. Use it to deploy your site: [My Rakefile](https://https://gist.github.com/4541735)
+4. Use it to deploy your site: [My Rakefile](https://gist.github.com/4541735)
 
 ## Configuration ##
 
